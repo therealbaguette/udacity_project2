@@ -186,6 +186,4 @@ def main():
 if __name__ == '__main__':
     main()
 
-    # python models/train_classifier.py ../data/DisasterResponse.db classifier.pkl
-
-    # python train_classifier.py data/DisasterResponse.db classifier.pkl
+    # python train_classifier.py ../data/DisasterResponse.db classifier.pkl
